@@ -1,0 +1,1 @@
+@forge-import-bug-submodule/=lib/forge-import-bug-submodule/src/
